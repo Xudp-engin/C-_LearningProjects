@@ -1,0 +1,9 @@
+E:\VisualProjects\CS_WinForm\Chapter_7.1\WindowsForms_7.1\WindowsForms_7.1\bin\Debug\WindowsForms_7.1.exe.config
+E:\VisualProjects\CS_WinForm\Chapter_7.1\WindowsForms_7.1\WindowsForms_7.1\bin\Debug\WindowsForms_7.1.exe
+E:\VisualProjects\CS_WinForm\Chapter_7.1\WindowsForms_7.1\WindowsForms_7.1\bin\Debug\WindowsForms_7.1.pdb
+E:\VisualProjects\CS_WinForm\Chapter_7.1\WindowsForms_7.1\WindowsForms_7.1\obj\Debug\WindowsForms_7.1.csprojResolveAssemblyReference.cache
+E:\VisualProjects\CS_WinForm\Chapter_7.1\WindowsForms_7.1\WindowsForms_7.1\obj\Debug\WindowsForms_7._1.Form1.resources
+E:\VisualProjects\CS_WinForm\Chapter_7.1\WindowsForms_7.1\WindowsForms_7.1\obj\Debug\WindowsForms_7._1.Properties.Resources.resources
+E:\VisualProjects\CS_WinForm\Chapter_7.1\WindowsForms_7.1\WindowsForms_7.1\obj\Debug\WindowsForms_7.1.csproj.GenerateResource.Cache
+E:\VisualProjects\CS_WinForm\Chapter_7.1\WindowsForms_7.1\WindowsForms_7.1\obj\Debug\WindowsForms_7.1.exe
+E:\VisualProjects\CS_WinForm\Chapter_7.1\WindowsForms_7.1\WindowsForms_7.1\obj\Debug\WindowsForms_7.1.pdb
